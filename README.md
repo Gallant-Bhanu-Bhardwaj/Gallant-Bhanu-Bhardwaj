@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhanu Prakash Bhardwaj</h1>
-<h3 align="center">A passionate Devops Engineer from India</h3>
+<h3 align="center">A passionate ML Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gallant-bhanu-bhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="gallant-bhanu-bhardwaj" /> </p>
 
@@ -17,8 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@bhanu_spartan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bhanu_spartan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhanu prakash bhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhanu prakash bhardwaj" height="30" width="40" /></a>
+<a href="https://twitter.com/bhanu_spartan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhanu_spartan" height="30" width="40" /></a>
 <a href="https://instagram.com/bhanu_01_warrior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhanu_01_warrior" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/im_axel_blaze" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="im_axel_blaze" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/im_axel_blaze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="im_axel_blaze" height="30" width="40" /></a>
