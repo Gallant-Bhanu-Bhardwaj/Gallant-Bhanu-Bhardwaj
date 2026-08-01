@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bhanubhardwaj02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KkAmz8R1s_uSLAFUHAgD-fp0HjAH5Gji/view?usp=drive_link]([https://drive.google.com/file/d/1KkAmz8R1s_uSLAFUHAgD-fp0HjAH5Gji/view?usp=drive_link](https://drive.google.com/file/d/1wHM9XBwNNZ5YHwRwuv1Ocr14TjZrGuSy/view?usp=drive_link))
+- 📄 Know about my experiences https://drive.google.com/file/d/1wHM9XBwNNZ5YHwRwuv1Ocr14TjZrGuSy/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
